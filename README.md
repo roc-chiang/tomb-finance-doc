@@ -1,5 +1,7 @@
 # tomb.finance 中文文档
 
+英文文档：https://docs.tomb.finance/
+
 [首页](doc/Home.md)
 
 [发行](doc/Launch.md)
