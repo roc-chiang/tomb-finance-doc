@@ -4,7 +4,7 @@
 
 ---
 
-Tomb 代币是在 [Tomb.Finance](http://tomb.Finance) 生态系统下的第一个项目，为系统提供了基拙，并致力于为代币持有者带来效用及价值。
+Tomb 代币是在 [Tomb.Finance](http://tomb.Finance) 生态系统下的第一个项目，为系统提供了基础，并致力于为代币持有者带来效用及价值。
 
 Tomb 代币由 Tomb.finance 团队设计，以锚定 FTM 的价格为目标，透过控制其供应量而影响价格，直至与目标价格一致，为价格带来可编程性以及稳定性。
 
